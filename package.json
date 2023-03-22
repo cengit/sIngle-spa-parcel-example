@@ -1,0 +1,8 @@
+{
+  "name": "pruforce-portal",
+  "scripts": {
+    "install": "sh scripts/install.sh",
+    "start": "sh scripts/start.sh",
+    "stop": "sh scripts/stop.sh"
+  }
+}
