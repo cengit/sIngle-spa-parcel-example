@@ -1,0 +1,27 @@
+#left-panel {
+  width: 20%;
+  height: 100vh;
+  background-color: lightblue;
+  float: left;
+}
+
+/* Define the styles for the right panel */
+#right-panel {
+  width: 70%;
+  height: 100vh;
+  background-color: #ccc;
+  float: left;
+}
+
+#wrap>div {
+  padding: 10px
+}
+h2 {
+  font-size: 20px !important;
+  font-weight: bold;
+}
+li {
+  font-size: 16px;
+  margin-top: 10px;
+  text-decoration: underline;
+}

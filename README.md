@@ -21,7 +21,7 @@ yarn start # start all single-spas
 
 1. open `http://192.168.18.192:9000/` in the browswer, you should see the single-SPAs with parcel.
 
-## Call Pacel-App
+## Call Parcel-App
 path: `example-app1/src/app.tsx`
 
 we can use the Parcel-App just like a React component, and also we can pass props to the `Parcel-App`, see below code:
